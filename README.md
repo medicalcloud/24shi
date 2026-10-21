@@ -7,6 +7,49 @@
 
 ウェブで読む：https://medicalcloud.github.io/24shi/ （目次は `index.md`）
 
+## この資料について
+
+### 二十四史とは
+
+二十四史は，中国の24の正史をまとめた呼び名である。
+
+> 史記・漢書・後漢書・三国志・晋書・宋書・南斉書・梁書・陳書・魏書・北斉書・周書・隋書・南史・北史・旧唐書・新唐書・旧五代史・新五代史・宋史・遼史・金史・元史・明史
+
+正史とは，原則として，王朝が公式に編纂した歴史書である。多くは，次の王朝が前の王朝の歴史を，朝廷の事業としてまとめた（たとえば『明史』は清が編纂した）。『史記』や『漢書』のように，もとは個人の著作で，のちに正史とされたものもある。24の書を正史とする数え方は，清の乾隆年間に定められた。
+
+### 正史の中の医療
+
+正史は政治や戦争の記録が中心だが，医療に関わる記述も数多く含まれている。
+
+- 医師や医療に関わった人の伝：『史記』扁鵲倉公列伝をはじめ，方技伝・方術伝・芸術伝などの巻にある。華佗・孫思邈・銭乙・劉完素・李杲・李時珍など。
+- そのほかの記述：
+  - 皇帝や官人の病気と治療。
+  - 疫病への対策や，医官・薬局の制度。
+  - 外国から献上された薬物。
+  - 親の病を自分の身を削って治そうとした孝行の話。
+  - 不老不死の薬を求めた帝王の話。
+
+これらは，医書には書かれない，社会の中の医療の姿を伝えている。
+
+### この資料の目的
+
+この資料は，公式の歴史書の中に書かれた医学の歴史を，簡単に閲覧し，また検索できるようにするために作った。
+
+- 中国医学の通史について調べたいことがあるときの助けになることを目指している。
+- 24書の記事を，句読点つきの原文と日本語訳で，書ごと・人ごと・箇所ごとに読める。
+- GitHub のリポジトリ全体を，テキストとして検索できる。人名・病名・薬名のほか，「鍼」「灸」「疫」などの字でも探せる。
+
+### 医療と呪術の境界について
+
+古い時代に遡るほど，医学と呪術・占い・神仙術の境界は曖昧になる。正史の方術伝・芸術伝にも，医者と並んで，占い師・天文家・仙人・方士が収められている。
+
+この資料の編集では，資料としての網羅性を重視した。そのため，境界線上にあるものも含めている。
+
+- 今日の尺度では医学とは言い難い呪術的なもの：祈祷・符水・巫術・仙薬・丹薬・占いなど。
+- 割股（自分の股の肉を切って親に食べさせる）のような孝行の話。
+
+これらは歴史の記録として収めたもので，その効果や正しさを認めるものではない。内容については，読む人それぞれが判断してほしい。また，訳と解説は LLM で作成したもので，誤りがありうる。医療上の判断の根拠にはしないこと。
+
 ## 構成
 
 ```
@@ -67,4 +110,4 @@ NN_書名/                 00_史記 〜 23_明史（書名は新字体）
 
 ## English summary
 
-Medical records from the Twenty-Four Histories of China (Shiji to Mingshi): (1) biographies of physicians and other practitioners (from the fangji / fangshu / yishu chapters), and (2) passages on illness, treatment and drugs from other annals and biographies. Each unit has the punctuated classical text (`NNN.md`) and a Japanese translation with notes (`NNN.ja.md`). Classical texts are public domain (Kanripo, with gaps filled from Wikisource); new material is CC BY-SA 4.0. Translations were produced with an LLM and may contain errors.
+Medical records from the Twenty-Four Histories of China (Shiji to Mingshi): (1) biographies of physicians and other practitioners (from the fangji / fangshu / yishu chapters), and (2) passages on illness, treatment and drugs from other annals and biographies. Each unit has the punctuated classical text (`NNN.md`) and a Japanese translation with notes (`NNN.ja.md`). Classical texts are public domain (Kanripo, with gaps filled from Wikisource); new material is CC BY-SA 4.0. Translations were produced with an LLM and may contain errors. The Twenty-Four Histories are the official dynastic histories of China, mostly compiled under imperial commission. This collection aims to make the history of medicine recorded in them easy to browse and search, as an aid to research on the general history of Chinese medicine. Because the boundary between medicine and magic becomes blurred in earlier periods, and because completeness was given priority, it also includes divination, incantation, elixirs and other practices that would hardly be called medicine today; readers should judge the content for themselves.
