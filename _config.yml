@@ -1,0 +1,22 @@
+title: 二十四史の医療の記事 原文・現代語訳
+description: 中国の正史（二十四史）から集めた医療者の伝と，医療・疾病・薬物に関連する箇所の原文（句読点つき）・日本語訳と解説
+github_repo: medicalcloud/24shi
+lang: ja
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - LICENSE

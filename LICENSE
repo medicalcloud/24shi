@@ -1,0 +1,45 @@
+二十四史の医療の記事 原文・現代語訳
+Copyright (c) 2026 Hideaki Takata
+
+1. 古典の文（Classical texts）
+
+『史記』から『明史』までの二十四史の本文と割注（裴駰・李賢・裴松之・顔師古などの注を含む）
+は，パブリックドメインである。電子テキストは漢籍リポジトリ（Kanripo，github.com/kanripo）
+により，その欠けている巻は Wikisource によった。
+
+The classical texts (the Twenty-Four Histories, from the Shiji to the Mingshi,
+with their interlinear commentaries) are in the public domain. The electronic
+texts come from the Kanseki Repository (Kanripo), with missing chapters taken
+from Wikisource.
+
+2. このプロジェクトで新しく書いたもの（New material）
+
+句読点の追加，日本語訳，解説・要約，YAML の情報など，
+このプロジェクトで（LLM〔Claude〕を使って）新しく作成したものは，
+クリエイティブ・コモンズ 表示-継承 4.0 国際 ライセンス（CC BY-SA 4.0）で提供する。
+
+Punctuation, Japanese translations, explanatory notes and summaries,
+metadata, and other material newly created for this project (with the help
+of an LLM, Claude) are licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+
+  https://creativecommons.org/licenses/by-sa/4.0/
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode （法的な条文 / legal code）
+
+利用するときは，出典として次を示すこと。
+When using this material, please give attribution as follows:
+
+  二十四史の医療の記事 原文・現代語訳（Hideaki Takata） https://github.com/medicalcloud/24shi
+
+改変したものを配布するときは，同じ CC BY-SA 4.0（またはその互換ライセンス）で提供すること。
+If you remix, transform, or build upon the material, you must distribute
+your contributions under the same license (CC BY-SA 4.0) or a compatible one.
+
+3. 免責（Disclaimer）
+
+訳と解説は LLM によって作成したものであり，誤りがありうる。
+医療上の判断の根拠にはしないこと。本資料は無保証で提供する。
+
+The translations and notes were produced with an LLM and may contain
+errors. They are not medical advice. This material is provided "as is",
+without warranty of any kind.
