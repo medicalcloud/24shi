@@ -7,7 +7,7 @@ title: 目次
 中国の正史（二十四史）から，(1) 医師・医療者の伝（方技伝・方術伝・芸術伝など）と，(2) そのほかの本紀・列伝のうち，医療・疾病・薬物に関連する箇所を集め，句読点つきの原文と日本語訳・解説を付けたもの。占い・呪術・仙薬・養生など，医療との境が曖昧なものも含めた。
 
 - 作り方・資料・訳の書き方：[README（GitHub）](https://github.com/medicalcloud/24shi#readme)，[字体と変換の方針](字体と変換の方針.md)
-- 姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)，[金匱要略](https://medicalcloud.github.io/kinkiyoryaku/)，[黄帝内経](https://medicalcloud.github.io/koteidaikei/)，[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)，[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)
+- 姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)，[金匱要略](https://medicalcloud.github.io/kinkiyoryaku/)，[黄帝内経](https://medicalcloud.github.io/koteidaikei/)，[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)，[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)，[難経](https://medicalcloud.github.io/nangyo/)
 
 各書の目次は，(1) 医師列伝集，(2) 医療・疾病・薬物に関連する引用集 の順に並べた。
 
